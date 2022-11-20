@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu
     steps:
     - name: Print Hello Massage
-       run: echo "Hello, Armenia!"
+      run: echo "Hello, Armenia!"
         
   testing2:
     runs-on: ubuntu
     steps:
     - name: Print Hello Massage
-       run: echo "Hello, Gyumri!"
-     
+      run: echo "Hello, Gyumri!"
+   
         
        
        
