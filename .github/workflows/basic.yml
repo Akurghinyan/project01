@@ -3,7 +3,7 @@ name: Project
 on: 
   push:
     branches:
-       -master
+       - master
        
 jobs:
   testing1:
