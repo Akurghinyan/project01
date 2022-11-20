@@ -1,9 +1,7 @@
 name: Project
 
 on: 
-  push:
-    branches:
-       - master
+  [push]
        
 jobs:
   testing1:
