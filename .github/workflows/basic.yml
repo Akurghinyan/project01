@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu
     steps:
     - name: Print Hello Massage
-      run:  echo "Hello, Gyumri!"
+      run:  echo "Hello, Gyumr i!"
    
         
        
