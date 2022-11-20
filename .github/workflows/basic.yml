@@ -8,7 +8,6 @@ on:
 jobs:
   testing1:
     runs-on: ubuntu
-     
     steps:
     - name: Print Hello Massage
         run: echo "Hello, Armenia!"
